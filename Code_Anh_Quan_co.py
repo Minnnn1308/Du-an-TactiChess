@@ -26,4 +26,4 @@ def download_chess_pieces():
     print("\nHoàn tất! Bạn hãy mở thư mục 'images' ra để kiểm tra thành quả.")
 
 if __name__ == "__main__":
-    download_chess_pieces() 
+    download_chess_pieces() 
