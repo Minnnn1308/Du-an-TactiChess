@@ -53,3 +53,4 @@ Hệ thống mã nguồn được chia theo mô hình **MVC** (Model - View - Co
 - Vị trí: Bài tập lớn Khoa học máy tính / Thiết kế Giao diện.
 - Phát triển bởi: Nguyen Quang Minh - B24DCVN069
 - Ứng dụng là phần mềm mã nguồn mở dựa trên Stockfish Engine.
+
