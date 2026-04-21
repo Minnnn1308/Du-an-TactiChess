@@ -464,3 +464,4 @@ class Move:
 
     def get_rank_file(self, h, c):
         return self.chu_sang_cot[c] + self.so_sang_hang[h]
+
