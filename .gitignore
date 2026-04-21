@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database
+*.db
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Large binaries (>100MB is rejected by GitHub)
+Engine_stockfish.exe
+
+# Temporary or unrelated folders
+.sixth/
+stockfish/
+Update_In_Future/
